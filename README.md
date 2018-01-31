@@ -1,3 +1,3 @@
 # hello-world
 Initial learning repositery project
-Testing For Editing in repositary
+Testing For Editing in learning repositary .
